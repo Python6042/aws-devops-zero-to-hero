@@ -27,6 +27,7 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ../simple-python-app
-  name: Python-Appln
+  #base-directory: ../simple-python-app
+  base-directory: day-14/simple-python-app
+  name: MYFirst-Python-Appln
   discard-paths: no
